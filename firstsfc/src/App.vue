@@ -5,6 +5,6 @@
   <food-item/>
 </template>
  
-<script> </script>
+<script></script>
  
-<style> </style>
+<style></style>
