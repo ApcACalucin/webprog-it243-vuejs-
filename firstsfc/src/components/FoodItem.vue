@@ -1,5 +1,5 @@
 <template>
-  <div class= "apple">
+  <div class= "apples">
     <h2>{{ name }}</h2>
     <p>{{ message }}</p>
   </div>
@@ -17,7 +17,7 @@ export default {
 </script>
  
 <style>
-  .apple {
+  .apples {
     border: dashed black 1px;
     display: inline-block;
     margin: 10px;
